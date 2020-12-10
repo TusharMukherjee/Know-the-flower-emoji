@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #a7f3d0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #34d399;
+  height: 44rem;
+}
